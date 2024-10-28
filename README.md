@@ -7,4 +7,4 @@ Developed with React.js/Typescript.
 ## Backend
 Developed with Spring/Java in IntelliJ
 
-### Run java file DemoApplication.java
+### `run DemoApplication.java`
